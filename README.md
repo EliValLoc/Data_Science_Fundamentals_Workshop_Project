@@ -18,7 +18,7 @@ The project uses road traffic accident data from the City of Zurich covering the
 
 ```text
 .
-├── data/                         # Input datasets used for the project
+├── data/                         # Reference for dataset download
 ├── notebook/                     # Main project notebook
 ├── presentation/                 # Final presentation as PDF
 └── README.md                     # Repository overview
